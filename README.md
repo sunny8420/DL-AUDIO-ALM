@@ -2,13 +2,49 @@
 
 
 
-This repository contains the final academic version of a real-time
+This repository contains the final academic version of a Deep Learning based
 
-Deep Learning based Audio Language Model for speech and sound understanding.
+Audio Language Model that performs speech recognition, sound classification,
+
+and smart contextual reasoning.
 
 
 
-This project is intended for long-term reference and interview demonstration.
+\## Features
+
+\- Real-time audio processing (mic)
+
+\- Speech + non-speech sound classification
+
+\- Memory-based smart context engine
+
+\- Web dashboard (Flask)
+
+\- Logging, evaluation, confusion matrices
+
+\- Auto-generated PDF report
+
+
+
+\## Purpose
+
+This project is maintained as a long-term academic and interview reference.
+
+It is not deployed as a live hosted service.
+
+
+
+\## How to Run (Optional)
+
+python app.py
+
+
+
+\## Artifacts
+
+\- ALM\_Report.pdf
+
+\- Confusion matrix images
 
 
 
